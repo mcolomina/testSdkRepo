@@ -1,0 +1,3 @@
+include ':engage-sdk'
+include ':app'
+project(':app').projectDir = new File(settingsDir, './testAppRepo/app')

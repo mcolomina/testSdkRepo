@@ -1,0 +1,3 @@
+[submodule "testAppRepo"]
+	path = testAppRepo
+	url = https://github.com/mcolomina/testAppRepo.git
